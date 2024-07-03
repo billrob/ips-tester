@@ -4,6 +4,8 @@ https://dotnet.microsoft.com/en-us/download
 
 Then pull down this repository
 
+then open `appsettings.json` and enter the bearer token and base url (all the way through the /api part)  the `getAccountBatch` will be appended
+
 from the root directory
 
 `dotnet run`
